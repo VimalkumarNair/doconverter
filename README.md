@@ -18,7 +18,8 @@ Just type `doconverter.exe file_toconvert.doc|xls|ppt|pdf` in your command line.
 # Configs
 
 You can make configurations with the help of **doconverter.exe.config** file.
-1.  **Ghostscript** file location settings
-2.  Image resolution settings for Word and PowerPoint
-3.  Resolution settings for PDF files ( Ex : 100,200,...)
-4.  Excel works in limits which are already set. This will be editable in settings in coming versions.
+
+1. **Ghostscript** file location settings
+2. Image resolution settings for Word and PowerPoint
+3. Resolution settings for PDF files ( Ex : 100,200,...)
+4. Excel works in limits which are already set. This will be editable in settings in coming versions.
