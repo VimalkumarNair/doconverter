@@ -1,0 +1,7 @@
+C:\Users\Sefa\Desktop\doconverter\doconverter\bin\Debug\doconverter.exe.config
+C:\Users\Sefa\Desktop\doconverter\doconverter\obj\Debug\doconverter.csproj.ResolveComReference.cache
+C:\Users\Sefa\Desktop\doconverter\doconverter\bin\Debug\doconverter.exe
+C:\Users\Sefa\Desktop\doconverter\doconverter\bin\Debug\doconverter.pdb
+C:\Users\Sefa\Desktop\doconverter\doconverter\obj\Debug\doconverter.exe
+C:\Users\Sefa\Desktop\doconverter\doconverter\obj\Debug\doconverter.pdb
+C:\Users\Sefa\Desktop\doconverter\doconverter\obj\Debug\doconverter.csprojResolveAssemblyReference.cache
